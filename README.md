@@ -12,6 +12,11 @@
 
 PULL REQUEST!!
 
+
+![Test Image 1](https://github.com/vicenlu/galio-react-native/blob/main/screens/grafica.jpg)
+
+
+
 <p align="center">
   <img src="assets/galio-logo.png">
   <p align="center">Galio is one of the coolest UI libraries you could ever use, licensed under MIT. Carefully crafted by developers for developers. Ready-made components, typography, and a gorgeous base theme that is easily adaptable to each project.</p>
