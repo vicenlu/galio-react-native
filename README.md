@@ -10,7 +10,7 @@
 [![Sponsors on Open Collective](https://opencollective.com/galio/sponsors/badge.svg)](#sponsors) 
 
 
-HOLAAAAAA
+PULL REQUEST!!
 
 <p align="center">
   <img src="assets/galio-logo.png">
